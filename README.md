@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @stuartleske, a postdoctoral research fellow at: 
+- The University of Queensland Medical School and the Physical and Mental Health Research Stream at the Queensland Centre for Mental Health Research
+- 👀 I’m interested in epidemiology
+- 🌱 I’m currently learning psychiatric epidemiology, and interested in descriptive, predictive and causal epidemiology
+- 💞️ I’m looking to collaborate on projects that improve reporting guidelines or promote the understanding of epidemiology
+- 📫 How to reach me s.leske@uq.edu.au or stuartleske1@gmail.com
